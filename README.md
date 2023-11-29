@@ -32,7 +32,7 @@ The Expense Tracker App is a web application designed to help users manage and t
 2. **Install Dependencies:**
    ```bash
    cd expense-tracker-app
-   npm install
+   yarn
    ```
 
 3. **Configure Firebase:**
@@ -41,7 +41,7 @@ The Expense Tracker App is a web application designed to help users manage and t
 
 4. **Run the App:**
    ```bash
-   npm start
+   yarn start
    ```
 
    The app will be accessible at [http://localhost:3000](http://localhost:3000).
