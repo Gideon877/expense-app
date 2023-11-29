@@ -91,7 +91,6 @@ export default function SignIn() {
 							required
 							fullWidth
 							id="email"
-							value='tblar84@gmail.com'
 							label="Email Address"
 							name="email"
 							autoComplete="email"
@@ -102,7 +101,6 @@ export default function SignIn() {
 							required
 							fullWidth
 							name="password"
-							value='password'
 							label="Password"
 							type="password"
 							id="password"
