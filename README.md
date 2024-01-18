@@ -1,10 +1,5 @@
-Certainly! Below is a basic template for a README file for your expense tracker app. You can customize it further based on the specific details and features of your application.
 
----
-
-# Expense Tracker App
-
-![Expense Tracker App Logo](path/to/your/logo.png)
+# Expense Tracker App 💰
 
 ## Overview
 
@@ -26,12 +21,12 @@ The Expense Tracker App is a web application designed to help users manage and t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/expense-tracker-app.git
+   git clone https://github.com/gitdeon877/expense-app.git
    ```
 
 2. **Install Dependencies:**
    ```bash
-   cd expense-tracker-app
+   cd expense-app
    yarn
    ```
 
